@@ -5,14 +5,13 @@
 // 4 -> 16 
 // -3 -> 9 
 // -7 -> 49
-
-// Console.WriteLine("Введите число:");
-//  int number =Convert.ToInt32(Console.ReadLine()); 
-// {
-//     Console.WriteLine(number*number);
-// }
- 
+//Через Convert.ToInt32
 Console.WriteLine("Введите число:");
-string number = Console.ReadLine();
-int result = int.Parse(number);
-Console.WriteLine(result*result);
+ int number =Convert.ToInt32(Console.ReadLine()); 
+Console.WriteLine(number*number);
+
+ //Через Parse
+// Console.WriteLine("Введите число:");
+// string number = Console.ReadLine();
+// int result = int.Parse(number);  //Вводим переменную result
+// Console.WriteLine(result*result);
