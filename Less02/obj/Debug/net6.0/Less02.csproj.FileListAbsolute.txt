@@ -3,3 +3,13 @@ C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\Less02.GeneratedMSBuildE
 C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\Less02.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\Less02.AssemblyInfo.cs
 C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\Less02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#Lesson1\Less02\bin\Debug\net6.0\Less02.exe
+C:\Users\User\Desktop\C#Lesson1\Less02\bin\Debug\net6.0\Less02.deps.json
+C:\Users\User\Desktop\C#Lesson1\Less02\bin\Debug\net6.0\Less02.runtimeconfig.json
+C:\Users\User\Desktop\C#Lesson1\Less02\bin\Debug\net6.0\Less02.dll
+C:\Users\User\Desktop\C#Lesson1\Less02\bin\Debug\net6.0\Less02.pdb
+C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\Less02.dll
+C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\refint\Less02.dll
+C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\Less02.pdb
+C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\Less02.genruntimeconfig.cache
+C:\Users\User\Desktop\C#Lesson1\Less02\obj\Debug\net6.0\ref\Less02.dll
